@@ -1,0 +1,27 @@
+/* img{
+    width: 200px;
+
+} */
+h1{
+    text-align: center;
+}
+#image1{
+    border-top-left-radius: 10px;
+    width: 700px;
+    border-bottom-left-radius: 10px;
+}
+#images{
+    margin-left: 50px;
+    display:flex ;
+
+}
+#smallpic{
+    height: 270px;
+    width: 300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+/* #small{
+    width: 500px;
+} */
